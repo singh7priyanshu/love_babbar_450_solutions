@@ -19,7 +19,7 @@
 		}
 		return 0;
 	}
-#python
+# python
 	class Solution:
     		def reverseWord(s):
         		# for reversing the array we will traverse it from 0th index to the mid index
