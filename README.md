@@ -20,8 +20,8 @@ int main() {
 	}
 	return 0;
 }
-# python
-                    class Solution:
+#python
+class Solution:
     def reverseWord(s):
         # for reversing the array we will traverse it from 0th index to the mid index
         # and keep swapping the ith index value with (len(s)-i)th index value
