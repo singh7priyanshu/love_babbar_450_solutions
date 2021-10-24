@@ -1,7 +1,7 @@
 # lovebabbarreadingmaterial
-# arrays
-# Write a program to reverse an array or string
-# cpp
+## arrays
+### Write a program to reverse an array or string
+#### cpp
 	#include <iostream>
 	using namespace std;
 
@@ -19,7 +19,7 @@
 		}
 		return 0;
 	}
-# python
+#### python
 	class Solution:
     		def reverseWord(s):
         		# for reversing the array we will traverse it from 0th index to the mid index
