@@ -95,5 +95,95 @@
     		kth_max = A[-k]  # k-th element from the end of sorted array
     		return (kth_min, kth_max)
 	# kth_min_max([-1, 10, -5, 30, -8, 40, 60], 3) --> (-1, 30)
+	
+	
+### Sort an array of 0s, 1s and 2s
+#### Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.
+
+
+Example 1:
+
+Input: 
+N = 5
+arr[]= {0 2 1 2 0}
+Output:
+0 0 1 2 2
+Explanation:
+0s 1s and 2s are segregated 
+into ascending order.
+
+##### cpp
+	#include<bits/stdc++.h>
+	using namespace std;
+	
+	class Solution{
+    		public:
+    		void sort012(int a[], int n){
+        		// coode here 
+        		int low = 0, high = n-1, mid = 0;
+    			while(mid <= high){
+    				if(a[mid]==0)
+                			swap(a[mid++], a[low++]);
+           			else if(a[mid]==1)
+                 			mid++;
+  				else
+                			swap(a[mid], a[high--]);
+        		}
+    		}
+    	};
+		
+	/driver code
+	int main(){
+		int t;
+		cin>>t;
+		while(t--){
+			int n;
+			cin>>n;
+			int a[n];
+			for(int i=0;i<n;i++){
+				cin>>a[i];
+			}
+			solution ob;
+			ob.sort012(a,n);
+			for(int i=0;i<n;i++){
+				cout<<a[i]<<" ";
+			}
+			cout<<endl;
+		}
+		return 0;
+	}
+	
+##### python
+	class Solution:
+    		def sort012(self,arr,n):
+        		low=0
+        		high=n-1
+        		mid=0
+        		while mid<=high:
+            			if arr[mid]==0:
+                			arr[mid] , arr[low] = arr[low] , arr[mid]
+                			mid+=1
+                			low+=1
+            			elif arr[mid]==1:
+                			mid+=1
+           			else:
+                			arr[mid] , arr[high] = arr[high] , arr[mid]
+                			high-=1
+					
+	if __name__=='__main__':
+		t=int(input())
+		for _ in range(t):
+			n=int(input())
+			arr=[int(x) for x in input().strip().split()]
+			ob=Solution()
+			ob.sort012(arr,n)
+			for i in arr:
+				print(i, end=' ')
+			print()
+	
+	
+
+
+
                     
                    
