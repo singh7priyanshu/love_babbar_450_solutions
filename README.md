@@ -219,6 +219,71 @@ Note: Order of elements is not important here.
 			return 0;
 		}
 		
+###### two pointer approach
+	
+	// C++ program of the above
+	// approach
+
+	#include <iostream>
+	using namespace std;
+
+	// Function to shift all the
+	// negative elements on left side
+	void shiftall(int arr[], int left, int right){
+		// Loop to iterate over the
+		// array from left to the right
+		while (left<=right){
+			// Condition to check if the left
+			// and the right elements are
+			// negative
+			if (arr[left] < 0 && arr[right] < 0)
+				left+=1;
+	
+			// Condition to check if the left
+			// pointer element is positive and
+			// the right pointer element is negative
+			else if (arr[left]>0 && arr[right]<0){
+				int temp=arr[left];
+				arr[left]=arr[right];
+				arr[right]=temp;
+				left+=1;
+				right-=1;
+			}
+	
+			// Condition to check if both the
+			// elements are positive
+			else if (arr[left]>0 && arr[right] >0)
+				right-=1;
+			else{
+				left += 1;
+				right -= 1;
+			}
+		}
+	}
+
+	// Function to print the array
+	void display(int arr[], int right){
+
+		// Loop to iterate over the element
+		// of the given array
+		for (int i=0;i<=right;++i){
+			cout<<arr[i]<<" ";
+		}
+	cout<<endl;
+	}
+
+	// Driver Code
+	int main(){
+		int arr[] = {-12, 11, -13, -5, 6, -7, 5, -3, 11};
+		int arr_size = sizeof(arr) / sizeof(arr[0]);
+
+		// Function Call
+		shiftall(arr,0,arr_size-1);
+		display(arr,arr_size-1);
+		return 0;
+	}
+
+		
 ##### python
 	# A Python 3 program to put
 	# all negative numbers before
@@ -243,7 +308,55 @@ Note: Order of elements is not important here.
 	n = len(arr)
 	rearrange(arr, n)
 
+###### two pointer approach
+	# Python3 program of the
+	# above approach
 
+	# Function to shift all the
+	# the negative elements to
+	# the left of the array
+	def shiftall(arr,left,right):
+
+		# Loop to iterate while the
+		# left pointer is less than
+		# the right pointer
+		while left<=right:
+	
+			# Condition to check if the left
+			# and right pointer negative
+			if arr[left] < 0 and arr[right] < 0:
+				left+=1
+	
+			# Condition to check if the left
+			# pointer element is positive and
+			# the right pointer element is
+			# negative
+			elif arr[left]>0 and arr[right]<0:
+				arr[left], arr[right] = \ arr[right],arr[left]
+				left+=1
+				right-=1
+	
+			# Condition to check if the left
+			# pointer is positive and right
+			# pointer as well
+			elif arr[left]>0 and arr[right]>0:
+				right-=1
+			else:
+				left+=1
+				right-=1
+	
+	# Function to print the array
+	def display(arr):
+		for i in range(len(arr)):
+			print(arr[i], end=" ")
+		print()
+
+	# Driver Code
+	if __name__ == "__main__":
+		arr=[-12, 11, -13, -5,	6, -7, 5, -3, 11]
+		n=len(arr)
+		shiftall(arr,0,n-1)
+		display(arr)
 
 
 
