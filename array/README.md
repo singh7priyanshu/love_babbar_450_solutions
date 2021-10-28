@@ -1,4 +1,4 @@
-# lovebabbarreadingmateria
+# lovebabbarreadingmaterial
 ## Arrays
 ### Write a program to reverse an array or string
 ##### cpp
