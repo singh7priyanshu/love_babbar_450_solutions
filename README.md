@@ -15,5 +15,8 @@
 ## Trie
 ## Dynamic Programming
 ## Bit Manipulation
+## Others
+### questions from leetcode and geekforgeeks
+
 
 
