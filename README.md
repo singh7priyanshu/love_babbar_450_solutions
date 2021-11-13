@@ -2,9 +2,9 @@
 
 ## [Arrays](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/array)
 
-## Matrix
-## Strings
-## Searching & Sorting
+## [Matrix](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/matrix)
+## [Strings](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/strings)
+## [Searching & Sorting](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/searching%26sorting)
 ## LinkedList
 ## Binary Trees
 ## Binary Search Trees
