@@ -1,6 +1,7 @@
 # love_babbar_reading_material
 
-## Arrays
+## [Arrays](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/array)
+
 ## Matrix
 ## Strings
 ## Searching & Sorting
