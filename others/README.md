@@ -18,6 +18,8 @@
 ### [Merge k Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Merge%20k%20Sorted%20Lists.cpp)<br />
 ### [Swap Nodes in Pairs](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Swap%20Nodes%20in%20Pairs.cpp)<br />
 ### [Reverse Nodes in k-Group](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Reverse%20Nodes%20in%20k-Group.cpp)<br />
+### [Remove Duplicates from Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Remove%20Duplicates%20from%20Sorted%20Array.cpp)<br />
+
 
 
 
