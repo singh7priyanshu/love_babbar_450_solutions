@@ -9,3 +9,4 @@
   ## [9. Minimise the maximum difference between heights [V.IMP]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Minimise%20the%20maximum%20difference%20between%20heights%20%5BV.IMP%5D)
   ## [10. Minimum no. of Jumps to reach end of an array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Minimum%20no.%20of%20Jumps%20to%20reach%20end%20of%20an%20array)
   ## [11. find duplicate in an array of N+1 Integers](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20duplicate%20in%20an%20array%20of%20N%2B1%20Integers)
+  ## [12. Merge 2 sorted arrays without using Extra space.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%202%20sorted%20arrays%20without%20using%20Extra%20space)
