@@ -20,6 +20,7 @@
 ### [Reverse Nodes in k-Group](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Reverse%20Nodes%20in%20k-Group.cpp)<br />
 ### [Remove Duplicates from Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Remove%20Duplicates%20from%20Sorted%20Array.cpp)<br />
 ### [Remove Element](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Remove%20Element.cpp)<br />
+### [Implement strStr()](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Implement%20strStr().cpp)<br />
 
 
 
