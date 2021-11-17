@@ -10,5 +10,6 @@
 ### [Regular Expression Matching](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Regular%20Expression%20Matching.cpp)<br />
 ### [3Sum Closest](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/3Sum%20Closest.cpp)<br />
 ### [Letter Combinations of a Phone Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)<br />
+### [4Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/4Sum.cpp)<br />
 
 
