@@ -16,6 +16,8 @@
 ### [Merge Two Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Merge%20Two%20Sorted%20Lists.cpp)<br />
 ### [Generate Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Generate%20Parentheses.cpp)<br />
 ### [Merge k Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Merge%20k%20Sorted%20Lists.cpp)<br />
+### [Swap Nodes in Pairs](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Swap%20Nodes%20in%20Pairs.cpp)<br />
+
 
 
 
