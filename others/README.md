@@ -14,6 +14,7 @@
 ### [Remove Nth Node From End of List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)<br />
 ### [Valid Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Valid%20Parentheses.cpp)<br />
 ### [Merge Two Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Merge%20Two%20Sorted%20Lists.cpp)<br />
+### [Generate Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Generate%20Parentheses.cpp)<br />
 
 
 
