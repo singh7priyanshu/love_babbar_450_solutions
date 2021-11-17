@@ -11,5 +11,7 @@
 ### [3Sum Closest](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/3Sum%20Closest.cpp)<br />
 ### [Letter Combinations of a Phone Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)<br />
 ### [4Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/4Sum.cpp)<br />
+### [Remove Nth Node From End of List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)<br />
+
 
 
