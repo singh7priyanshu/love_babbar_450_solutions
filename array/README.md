@@ -11,3 +11,4 @@
   ## [11. find duplicate in an array of N+1 Integers](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20duplicate%20in%20an%20array%20of%20N%2B1%20Integers)
   ## [12. Merge 2 sorted arrays without using Extra space.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%202%20sorted%20arrays%20without%20using%20Extra%20space)
   ## [13. Merge Intervals](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%20Intervals)<br />
+  ## [14. Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Next%20Permutation)<br />
