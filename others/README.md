@@ -23,6 +23,7 @@
 ### [Implement strStr()](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Implement%20strStr().cpp)<br />
 ### [Divide Two Integers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Divide%20Two%20Integers.cpp)<br />
 ### [Substring with Concatenation of all Words](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Substring%20with%20Concatenation%20of%20All%20Words.cpp)<br />
+### [Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Next%20Permutation/sol.cpp)<br />
 
 
 
