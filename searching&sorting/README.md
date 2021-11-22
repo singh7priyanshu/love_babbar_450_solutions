@@ -1,1 +1,2 @@
 ## [1. Find first and last positions of an element in a sorted array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Find%20first%20and%20last%20positions%20of%20an%20element%20in%20a%20sorted%20array)<br />
+## [2. Find a Fixed Point (Value equal to index) in a given array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Find%20a%20Fixed%20Point%20(Value%20equal%20to%20index)%20in%20a%20given%20array)<br />
