@@ -1,1 +1,2 @@
 ## [1. Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/linkedList/Write%20a%20Program%20to%20reverse%20the%20Linked%20List.%20(Both%20Iterative%20and%20recursive))<br />
+## [2. Reverse a Linked List in group of Given Size. [Very Imp]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/linkedList/Reverse%20a%20Linked%20List%20in%20group%20of%20Given%20Size.%20%5BVery%20Imp%5D)<br />
