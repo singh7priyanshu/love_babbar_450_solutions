@@ -25,6 +25,7 @@
 ### [Substring with Concatenation of all Words](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Substring%20with%20Concatenation%20of%20All%20Words.cpp)<br />
 ### [Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Next%20Permutation/sol.cpp)<br />
 ### [Longest Valid Parenthesis](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Longest%20Valid%20Parentheses.cpp)<br />
+### [Search in Rotated Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Search%20in%20Rotated%20Sorted%20Array.cpp)<br />
 
 
 
