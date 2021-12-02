@@ -50,3 +50,33 @@ public:
     
     }
 };
+
+
+class Solution {
+public:
+    int firstMissingPositive(vector<int>& nums) {
+        // we convert all the numbers except 1to n into n+1 as they won't give potential answer.
+        int n = nums.size();
+        for(int i =0;i<n;i++){
+            if(nums[i]<=0){
+                nums[i] = n+1;
+            }
+        }
+        for(int i=0; i<n;i++){
+            int temp = abs(nums[i]);
+            //if there is any number in ranger 1to n , its index in 0 based array will get marked negative. 
+            if(temp<n+1){
+                nums[temp-1] = -abs(nums[temp-1]);
+            }
+        }
+        for(int i=0;i<n;i++){
+            // the first positive index+1 will give us result(if there was any element in array was not present
+            //in the range of 1ton, otherwise we return n+1)
+            if(nums[i]>0){
+                return i+1;
+            }
+        }
+        return n+1;
+    
+    }
+};
