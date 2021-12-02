@@ -34,6 +34,7 @@
 ### [Combination Sum II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Combination%20Sum%20II.cpp)<br />
 ### [Count and Say](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Count%20and%20Say.cpp)<br />
 ### [First Missing Positive](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/First%20Missing%20Positive.cpp)<br />
+### [Trapping Rain Water](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Trapping%20Rain%20Water.cpp)<br />
 
 
 
