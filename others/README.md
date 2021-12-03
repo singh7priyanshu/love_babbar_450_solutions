@@ -36,6 +36,7 @@
 ### [First Missing Positive](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/First%20Missing%20Positive.cpp)<br />
 ### [Trapping Rain Water](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Trapping%20Rain%20Water.cpp)<br />
 ### [Multiply Strings](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Multiply%20Strings.cpp)<br />
+### [Jump Game II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Minimum%20no.%20of%20Jumps%20to%20reach%20end%20of%20an%20array/sol.cpp)<br />
 
 
 
