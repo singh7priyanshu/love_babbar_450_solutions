@@ -39,6 +39,7 @@
 ### [Jump Game II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Minimum%20no.%20of%20Jumps%20to%20reach%20end%20of%20an%20array/sol.cpp)<br />
 ### [Wildcard Matching](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Wildcard%20Matching.cpp)<br />
 ### [Pow(x, n)](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Pow(x%2C%20n).cpp)<br />
+### [Group Anagrams](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Group%20Anagrams.cpp)<br />
 
 
 
