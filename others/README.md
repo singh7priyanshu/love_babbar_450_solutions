@@ -40,6 +40,7 @@
 ### [Wildcard Matching](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Wildcard%20Matching.cpp)<br />
 ### [Pow(x, n)](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Pow(x%2C%20n).cpp)<br />
 ### [Group Anagrams](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Group%20Anagrams.cpp)<br />
+### [Permutations](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Permutations.cpp)<br />
 
 
 
