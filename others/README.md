@@ -44,6 +44,7 @@
 ### [Permutations II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Permutations%20II.cpp)<br />
 ### [Rotate Image](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Rotate%20Image.cpp)<br />
 ### [136. Single Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/136.%20Single%20Number.cpp)<br />
+### [260. Single Number III](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/260.%20Single%20Number%20III.cpp)<br />
 
 
 
