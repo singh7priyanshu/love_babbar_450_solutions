@@ -48,6 +48,7 @@
 ### [137. Single Number II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/137.%20Single%20Number%20II.cpp)<br />
 ### [53. Maximum Subarray](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/find%20Largest%20sum%20contiguous%20Subarray%20%5BV.%20IMP%5D%20%20question%20repeated%20KADANE%E2%80%99S%20ALGORITHM/sol.cpp)<br />
 ### [664. Strange Printer](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/664.%20Strange%20Printer.cpp)<br />
+### [58. Length of Last Word](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/58.%20Length%20of%20Last%20Word.cpp)<br />
 
 
 
