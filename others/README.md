@@ -52,6 +52,7 @@
 ### [66. Plus One](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/66.%20Plus%20One.cpp)<br />
 ### [67. Add Binary](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/67.%20Add%20Binary.cpp)<br />
 ### [69. Sqrt(x)](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/69.%20Sqrt(x).cpp)<br />
+### [70. Climbing Stairs](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/70.%20Climbing%20Stairs.cpp)<br />
 
 
 
