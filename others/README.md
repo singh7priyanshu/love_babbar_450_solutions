@@ -55,6 +55,7 @@
 ### [70. Climbing Stairs](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/70.%20Climbing%20Stairs.cpp)<br />
 ### [88. Merge Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/88.%20Merge%20Sorted%20Array.cpp)<br />
 ### [21. Merge Two Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/21.%20Merge%20Two%20Sorted%20Lists.cpp)<br />
+### [83. Remove Duplicates from Sorted List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)<br />
 
 
 
