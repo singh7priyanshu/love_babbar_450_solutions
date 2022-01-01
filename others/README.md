@@ -57,6 +57,7 @@
 ### [21. Merge Two Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/21.%20Merge%20Two%20Sorted%20Lists.cpp)<br />
 ### [83. Remove Duplicates from Sorted List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)<br />
 ### [94. Binary Tree Inorder Traversal](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)<br />
+### [826. Most Profit Assigning Work](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/826.%20Most%20Profit%20Assigning%20Work.cpp)<br />
 
 
 
