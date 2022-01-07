@@ -64,6 +64,7 @@
 ### [476. Number Complement](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1009.%20Complement%20of%20Base%2010%20Integer.cpp)<br />
 ### [1094. Car Pooling](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1094.%20Car%20Pooling.cpp)<br />
 ### [4. Median of Two Sorted Arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)<br />
+### [382. Linked List Random Node](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/382.%20Linked%20List%20Random%20Node.cpp)<br />
 
 
 
