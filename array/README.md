@@ -12,3 +12,4 @@
   ## [12. Merge 2 sorted arrays without using Extra space.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%202%20sorted%20arrays%20without%20using%20Extra%20space)
   ## [13. Merge Intervals](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%20Intervals)<br />
   ## [14. Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Next%20Permutation)<br />
+  ## [15. Count Inversion](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Count%20Inversion)<br />
