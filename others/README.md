@@ -67,7 +67,7 @@
 ### [382. Linked List Random Node](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/382.%20Linked%20List%20Random%20Node.cpp)<br />
 ### [189. Rotate Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/189.%20Rotate%20Array.cpp)<br />
 ### [1291. Sequential Digits](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1291.%20Sequential%20Digits.cpp)<br />
-
+### [121. Best Time to Buy and Sell Stock](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)<br />
 
 
 
