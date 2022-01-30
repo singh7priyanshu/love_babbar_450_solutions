@@ -13,3 +13,4 @@
   ## [13. Merge Intervals](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%20Intervals)<br />
   ## [14. Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Next%20Permutation)<br />
   ## [15. Count Inversion](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Count%20Inversion)<br />
+  ## [16. Best time to buy and Sell stock](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)<br />
