@@ -16,3 +16,4 @@
   ## [16. Best time to buy and Sell stock](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)<br />
   ## [17. find all pairs on integer array whose sum is equal to given number](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20all%20pairs%20on%20integer%20array%20whose%20sum%20is%20equal%20to%20given%20number)<br />
   ## [18. find common elements In 3 sorted arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20common%20elements%20In%203%20sorted%20arrays)<br />
+  ## [19. Rearrange the array in alternating positive and negative items with O(1) extra space](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Rearrange%20the%20array%20in%20alternating%20positive%20and%20negative%20items%20with%20O(1)%20extra%20space)<br />
