@@ -69,6 +69,7 @@
 ### [1291. Sequential Digits](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1291.%20Sequential%20Digits.cpp)<br />
 ### [121. Best Time to Buy and Sell Stock](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)<br />
 ### [1672. Richest Customer Wealth](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1672.%20Richest%20Customer%20Wealth.cpp)<br />
+### [977. Squares of a Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/977.%20Squares%20of%20a%20Sorted%20Array.cpp)<br />
 
 
 
