@@ -25,3 +25,4 @@
   ## [25. Maximum profit by buying and selling a share atmost twice](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20atmost%20twice)<br />
   ## [26. Find whether an array is a subset of another array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20whether%20an%20array%20is%20a%20subset%20of%20another%20array)<br />
   ## [27. Find the triplet that sum to a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20the%20triplet%20that%20sum%20to%20a%20given%20value)<br />
+  ## [28. Trapping Rain water problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Trapping%20Rain%20water%20problem)<br />
