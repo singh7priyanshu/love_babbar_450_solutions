@@ -5,11 +5,11 @@ Given an array arr[] of N non-negative integers representing the height of block
 If width of each block is 1, compute how much water can be trapped between the blocks during 
 the rainy season. 
 
-             __   
-____________|__|
-|  |   __   |  |
-|  |  |  |  |  |
-|__|__|__|__|__|
+               __   
+______________|__|
+|  |     __   |  |
+|  |    |  |  |  |
+|__|____|__|__|__|
 
 
 Example 1:
