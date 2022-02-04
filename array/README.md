@@ -20,4 +20,4 @@
   ## [20. Find if there is any subarray with sum equal to 0](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20if%20there%20is%20any%20subarray%20with%20sum%20equal%20to%200)<br />
   ## [21. Find factorial of a large number](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20factorial%20of%20a%20large%20number)<br />
   ## [22. find maximum product subarray](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20maximum%20product%20subarray)<br />
-  ## [23. Find longest coinsecutive subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20longest%20consecutive%20subsequence)<br />
+  ## [23. Find longest consecutive subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20longest%20consecutive%20subsequence)<br />
