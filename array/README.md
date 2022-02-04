@@ -21,3 +21,4 @@
   ## [21. Find factorial of a large number](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20factorial%20of%20a%20large%20number)<br />
   ## [22. find maximum product subarray](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20maximum%20product%20subarray)<br />
   ## [23. Find longest consecutive subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20longest%20consecutive%20subsequence)<br />
+  ## [24. Given an array of size n and a number k, fin all elements that appear more than " n/k " times.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Given%20an%20array%20of%20size%20n%20and%20a%20number%20k%2C%20fin%20all%20elements%20that%20appear%20more%20than%20n/k%20times)<br />
