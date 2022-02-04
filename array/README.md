@@ -18,3 +18,4 @@
   ## [18. find common elements In 3 sorted arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20common%20elements%20In%203%20sorted%20arrays)<br />
   ## [19. Rearrange the array in alternating positive and negative items with O(1) extra space](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Rearrange%20the%20array%20in%20alternating%20positive%20and%20negative%20items%20with%20O(1)%20extra%20space)<br />
   ## [20. Find if there is any subarray with sum equal to 0](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20if%20there%20is%20any%20subarray%20with%20sum%20equal%20to%200)<br />
+  ## [21. Find factorial of a large number](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20factorial%20of%20a%20large%20number)<br />
