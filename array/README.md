@@ -26,3 +26,4 @@
   ## [26. Find whether an array is a subset of another array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20whether%20an%20array%20is%20a%20subset%20of%20another%20array)<br />
   ## [27. Find the triplet that sum to a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20the%20triplet%20that%20sum%20to%20a%20given%20value)<br />
   ## [28. Trapping Rain water problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Trapping%20Rain%20water%20problem)<br />
+  ## [29. Chocolate Distribution problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Chocolate%20Distribution%20problem)<br />
