@@ -151,15 +151,15 @@ int main()
 	// Initializing variable
 	// valley-peak approach
 	/*
-					   80
-					  /
-	   30		     /
-	  / \		    25
+			   80
+		          /
+	   30		 /
+	  / \		25
 	 /   15	       /
-	/	  \	      /
-   2	   10    /
-			 \  /
-			  8
+	/      \      /
+       2	10   /
+		  \ /
+	           8
 	*/
 	for (int i = 1; i < n; i++)
 	{
