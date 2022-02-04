@@ -23,3 +23,4 @@
   ## [23. Find longest consecutive subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20longest%20consecutive%20subsequence)<br />
   ## [24. Given an array of size n and a number k, fin all elements that appear more than " n/k " times.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Given%20an%20array%20of%20size%20n%20and%20a%20number%20k%2C%20fin%20all%20elements%20that%20appear%20more%20than%20n/k%20times)<br />
   ## [25. Maximum profit by buying and selling a share atmost twice](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20atmost%20twice)<br />
+  ## [26. Find whether an array is a subset of another array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20whether%20an%20array%20is%20a%20subset%20of%20another%20array)<br />
