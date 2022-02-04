@@ -27,3 +27,4 @@
   ## [27. Find the triplet that sum to a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Find%20the%20triplet%20that%20sum%20to%20a%20given%20value)<br />
   ## [28. Trapping Rain water problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Trapping%20Rain%20water%20problem)<br />
   ## [29. Chocolate Distribution problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Chocolate%20Distribution%20problem)<br />
+  ## [30. Smallest Subarray with sum greater than a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Smallest%20Subarray%20with%20sum%20greater%20than%20a%20given%20value)<br />
