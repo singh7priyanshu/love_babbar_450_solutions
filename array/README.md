@@ -33,3 +33,4 @@
   ## [33. Median of 2 sorted arrays of equal size](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Median%20of%202%20sorted%20arrays%20of%20equal%20size)<br />
   ## [34. Median of 2 sorted arrays of different size](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Median%20of%202%20sorted%20arrays%20of%20different%20size)<br />
   ## [35. Palindromic Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Palindromic%20Array)<br />
+  ## [36. Minimum no. of operations required to make an array palindrome](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Minimum%20no.%20of%20operations%20required%20to%20make%20an%20array%20palindrome)<br />
