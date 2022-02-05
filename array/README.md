@@ -30,3 +30,4 @@
   ## [30. Smallest Subarray with sum greater than a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Smallest%20Subarray%20with%20sum%20greater%20than%20a%20given%20value)<br />
   ## [31. Three way partitioning of an array around a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Three%20way%20partitioning%20of%20an%20array%20around%20a%20given%20value)<br />
   ## [32. Minimum swaps required bring elements less equal K together](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Minimum%20swaps%20required%20bring%20elements%20less%20equal%20K%20together)<br />
+  ## [33. Median of 2 sorted arrays of equal size](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Median%20of%202%20sorted%20arrays%20of%20equal%20size)<br />
