@@ -31,3 +31,4 @@
   ## [31. Three way partitioning of an array around a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Three%20way%20partitioning%20of%20an%20array%20around%20a%20given%20value)<br />
   ## [32. Minimum swaps required bring elements less equal K together](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Minimum%20swaps%20required%20bring%20elements%20less%20equal%20K%20together)<br />
   ## [33. Median of 2 sorted arrays of equal size](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Median%20of%202%20sorted%20arrays%20of%20equal%20size)<br />
+  ## [34. Median of 2 sorted arrays of different size](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Median%20of%202%20sorted%20arrays%20of%20different%20size)<br />
