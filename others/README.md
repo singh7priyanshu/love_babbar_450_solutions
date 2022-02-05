@@ -73,6 +73,7 @@
 ### [438. Find All Anagrams in a String](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)<br />
 ### [Josephus problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Josephus%20problem.cpp)<br />
 ### [454. 4Sum II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/454.%204Sum%20II.cpp)<br />
+### [525. Contiguous Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/525.%20Contiguous%20Array.cpp)<br />
 
 
 
