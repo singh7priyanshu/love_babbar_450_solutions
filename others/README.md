@@ -77,7 +77,7 @@
 ### [80. Remove Duplicates from Sorted Array II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)<br />
 ### [1510. Stone Game IV](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1510.%20Stone%20Game%20IV.cpp)<br />
 ### [520. Detect Capital](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/520.%20Detect%20Capital.cpp)<br />
-> ### [389. Find the Difference](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/389.%20Find%20the%20Difference.cpp)<br />
+### [389. Find the Difference](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/389.%20Find%20the%20Difference.cpp)<br />
 
 
 
