@@ -6,3 +6,4 @@
 ## [6. Maximum size rectangle](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/matrix/Maximum%20size%20rectangle)<br />
 ## [7. Find a specific pair in matrix](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/matrix/Find%20a%20specific%20pair%20in%20matrix.cpp)<br />
 ## [8. Rotate matrix by 90 degrees](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/matrix/Rotate%20matrix%20by%2090%20degrees)<br />
+## [9. Kth smallest element in a row-cpumn wise sorted matrix](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/matrix/Kth%20smallest%20element%20in%20a%20row-cpumn%20wise%20sorted%20matrix)<br />
