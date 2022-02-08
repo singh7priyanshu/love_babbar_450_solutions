@@ -2,3 +2,4 @@
 ##  [2. Check whether a String is Palindrome or not](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Check%20whether%20a%20String%20is%20Palindrome%20or%20not)<br />
 ## [3. Find Duplicate characters in a string](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Find%20Duplicate%20characters%20in%20a%20string)<br />
 ## [4. Why strings are immutable in Java?](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Why%20strings%20are%20immutable%20in%20Java%3F)<br />
+## [5. Write a Code to check whether one string is a rotation of another](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another)<br />
