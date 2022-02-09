@@ -4,3 +4,4 @@
 ## [4. Why strings are immutable in Java?](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Why%20strings%20are%20immutable%20in%20Java%3F)<br />
 ## [5. Write a Code to check whether one string is a rotation of another](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another)<br />
 ## [6. Write a Program to check whether a string is a valid shuffle of two strings or not](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Write%20a%20Program%20to%20check%20whether%20a%20string%20is%20a%20valid%20shuffle%20of%20two%20strings%20or%20not)<br />
+## [7. Count and Say problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Count%20and%20Say.cpp)<br />
