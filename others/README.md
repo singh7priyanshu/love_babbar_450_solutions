@@ -80,6 +80,7 @@
 ### [389. Find the Difference](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/389.%20Find%20the%20Difference.cpp)<br />
 ### [258. Add Digits](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/258.%20Add%20Digits.cpp)<br />
 ### [941. Valid Mountain Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/941.%20Valid%20Mountain%20Array.cpp)<br />
+### [532. K-diff Pairs in an Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/532.%20K-diff%20Pairs%20in%20an%20Array.cpp)<br />
 
 
 
