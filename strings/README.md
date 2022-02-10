@@ -7,3 +7,4 @@
 ## [7. Count and Say problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Count%20and%20Say.cpp)<br />
 ## [8. Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Write%20a%20program%20to%20find%20the%20longest%20Palindrome%20in%20a%20string.%5B%20Longest%20palindromic%20Substring%5D)<br />
 ## [9. Find Longest Recurring Subsequence in String](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Find%20Longest%20Recurring%20Subsequence%20in%20String)<br />
+## [10. Print all Subsequences of a string.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Print%20all%20Subsequences%20of%20a%20string)<br />
