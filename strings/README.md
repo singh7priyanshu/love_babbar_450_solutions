@@ -10,3 +10,4 @@
 ## [10. Print all Subsequences of a string.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Print%20all%20Subsequences%20of%20a%20string)<br />
 ## [11. Print all the permutations of the given string](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Print%20all%20the%20permutations%20of%20the%20given%20string)<br />
 ## [12. Split the Binary string into two substring with equal 0’s and 1’s](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s)<br />
+## [13. Word Wrap Problem [VERY IMP]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D)<br />
