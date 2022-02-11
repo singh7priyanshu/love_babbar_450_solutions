@@ -85,5 +85,6 @@
 ### [560. Subarray Sum Equals K](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/560.%20Subarray%20Sum%20Equals%20K.cpp)<br />
 ### [421. Maximum XOR of Two Numbers in an Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)<br />
 ### [211. Design Add and Search Words Data Structure](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)<br />
+### [567. Permutation in String](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/567.%20Permutation%20in%20String.cpp)<br />
 
 
