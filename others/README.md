@@ -88,5 +88,6 @@
 ### [567. Permutation in String](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/567.%20Permutation%20in%20String.cpp)<br />
 ### [84. Largest Rectangle in Histogram](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/84.%20Largest%20Rectangle%20in%20Histogram.cpp)<br />
 ### [127. Word Ladder](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/127.%20Word%20Ladder.cpp)<br />
+### [78. Subsets](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/78.%20Subsets.cpp)<br />
 
 
