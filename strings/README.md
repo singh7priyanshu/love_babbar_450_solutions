@@ -17,3 +17,4 @@
 ## [17. Word break Problem[ Very Imp]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Word%20break%20Problem%5B%20Very%20Imp%5D)<br />
 ## [18. Rabin Karp Algo](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Rabin%20Karp%20Algo)<br />
 ## [19. KMP Algo](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/KMP%20Algo)<br />
+## [20. Convert a Sentence into its equivalent mobile numeric keypad sequence.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Convert%20a%20Sentence%20into%20its%20equivalent%20mobile%20numeric%20keypad%20sequence)<br />
