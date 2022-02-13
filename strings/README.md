@@ -12,3 +12,4 @@
 ## [12. Split the Binary string into two substring with equal 0’s and 1’s](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s)<br />
 ## [13. Word Wrap Problem [VERY IMP]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D)<br />
 ## [14. EDIT Distance [Very Imp]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/EDIT%20Distance%20%5BVery%20Imp%5D)<br />
+## [15. Find next greater number with same set of digits. [Very Very IMP]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Find%20next%20greater%20number%20with%20same%20set%20of%20digits.%20%5BVery%20Very%20IMP%5D)<br />
