@@ -90,5 +90,7 @@
 ### [127. Word Ladder](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/127.%20Word%20Ladder.cpp)<br />
 ### [78. Subsets](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/78.%20Subsets.cpp)<br />
 ### [1463. Cherry Pickup II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1463.%20Cherry%20Pickup%20II.cpp)<br />
+### [104. Maximum Depth of Binary Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)<br />
+### [1041. Robot Bounded In Circle](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1041.%20Robot%20Bounded%20In%20Circle.cpp)<br />
 
 
