@@ -18,3 +18,4 @@
 ## [18. Rabin Karp Algo](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Rabin%20Karp%20Algo)<br />
 ## [19. KMP Algo](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/KMP%20Algo)<br />
 ## [20. Convert a Sentence into its equivalent mobile numeric keypad sequence.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Convert%20a%20Sentence%20into%20its%20equivalent%20mobile%20numeric%20keypad%20sequence)<br />
+## [21. Minimum number of bracket reversals needed to make an expression balanced](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Minimum%20number%20of%20bracket%20reversals%20needed%20to%20make%20an%20expression%20balanced)<br />
