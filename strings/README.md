@@ -21,3 +21,6 @@
 ## [21. Minimum number of bracket reversals needed to make an expression balanced](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Minimum%20number%20of%20bracket%20reversals%20needed%20to%20make%20an%20expression%20balanced)<br />
 ## [22. Count All Palindromic Subsequence in a given String](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Count%20All%20Palindromic%20Subsequence%20in%20a%20given%20String)<br />
 ## [23. Count of number of given string in 2D character array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Count%20of%20number%20of%20given%20string%20in%202D%20character%20array)<br />
+## [24. Search a Word in a 2D Grid of characters](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Search%20a%20Word%20in%20a%202D%20Grid%20of%20characters)<br />
+## [25. Boyer Moore Algorithm for Pattern Searching](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Boyer%20Moore%20Algorithm%20for%20Pattern%20Searching)<br />
+## [26. Converting Roman Numerals to Decimal](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Roman%20to%20Integer.cpp)<br />
