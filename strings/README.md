@@ -20,3 +20,4 @@
 ## [20. Convert a Sentence into its equivalent mobile numeric keypad sequence.](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Convert%20a%20Sentence%20into%20its%20equivalent%20mobile%20numeric%20keypad%20sequence)<br />
 ## [21. Minimum number of bracket reversals needed to make an expression balanced](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Minimum%20number%20of%20bracket%20reversals%20needed%20to%20make%20an%20expression%20balanced)<br />
 ## [22. Count All Palindromic Subsequence in a given String](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Count%20All%20Palindromic%20Subsequence%20in%20a%20given%20String)<br />
+## [23. Count of number of given string in 2D character array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Count%20of%20number%20of%20given%20string%20in%202D%20character%20array)<br />
