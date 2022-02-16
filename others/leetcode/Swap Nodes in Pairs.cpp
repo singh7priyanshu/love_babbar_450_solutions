@@ -7,6 +7,9 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 
 Example 1:
 
+1->2->3->4
+    |
+2->1->4->3
 
 Input: head = [1,2,3,4]
 Output: [2,1,4,3]
