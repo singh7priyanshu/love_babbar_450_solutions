@@ -25,3 +25,5 @@
 ## [25. Boyer Moore Algorithm for Pattern Searching](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Boyer%20Moore%20Algorithm%20for%20Pattern%20Searching)<br />
 ## [26. Converting Roman Numerals to Decimal](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Roman%20to%20Integer.cpp)<br />
 ## [27. Longest Common Prefix](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Longest%20Common%20Prefix.cpp)<br />
+## [28. Number of flips to make binary string alternate](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Number%20of%20flips%20to%20make%20binary%20string%20alternate)<br />
+## [29. Find the first repeated word in string](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Find%20the%20first%20repeated%20word%20in%20string)<br />
