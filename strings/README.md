@@ -27,3 +27,6 @@
 ## [27. Longest Common Prefix](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Longest%20Common%20Prefix.cpp)<br />
 ## [28. Number of flips to make binary string alternate](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Number%20of%20flips%20to%20make%20binary%20string%20alternate)<br />
 ## [29. Find the first repeated word in string](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Find%20the%20first%20repeated%20word%20in%20string)<br />
+## [30. Minimum number of swaps for bracket balancing](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Minimum%20number%20of%20swaps%20for%20bracket%20balancing)<br />
+## [31. Find the longest common subsequence between two strings](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Find%20the%20longest%20common%20subsequence%20between%20two%20strings)<br />
+## [32. Program to generate all possible valid IP addresses from given  string](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Program%20to%20generate%20all%20possible%20valid%20IP%20addresses%20from%20given%20%20string)<br />
