@@ -95,5 +95,7 @@
 ### [Find the number of islands | Set 1 (Using DFS)](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Find%20the%20number%20of%20islands%20Set1%20(Using%20DFS).cpp)<br />
 ### [1022. Sum of Root To Leaf Binary Numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)<br />
 ### [701. Insert into a Binary Search Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)<br />
+### [402. Remove K Digits](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/402.%20Remove%20K%20Digits.cpp)<br />
+### [452. Minimum Number of Arrows to Burst Balloons](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)<br />
 
 
