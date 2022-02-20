@@ -97,5 +97,7 @@
 ### [701. Insert into a Binary Search Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)<br />
 ### [402. Remove K Digits](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/402.%20Remove%20K%20Digits.cpp)<br />
 ### [452. Minimum Number of Arrows to Burst Balloons](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)<br />
+### [1675. Minimize Deviation in Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1675.%20Minimize%20Deviation%20in%20Array.cpp)<br />
+### [1345. Jump Game IV](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1345.%20Jump%20Game%20IV.cpp)<br />
 
 
