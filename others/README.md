@@ -101,5 +101,7 @@
 ### [1345. Jump Game IV](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1345.%20Jump%20Game%20IV.cpp)<br />
 ### [1288. Remove Covered Intervals](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1288.%20Remove%20Covered%20Intervals.cpp)<br />
 ### [849. Maximize Distance to Closest Person](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)<br />
+### [169. Majority Element](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/169.%20Majority%20Element.cpp)<br />
+### [290. Word Pattern](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/290.%20Word%20Pattern.cpp)<br />
 
 
