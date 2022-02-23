@@ -103,5 +103,7 @@
 ### [849. Maximize Distance to Closest Person](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)<br />
 ### [169. Majority Element](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/169.%20Majority%20Element.cpp)<br />
 ### [290. Word Pattern](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/290.%20Word%20Pattern.cpp)<br />
+### [171. Excel Sheet Column Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/171.%20Excel%20Sheet%20Column%20Number.cpp)<br />
+### [605. Can Place Flowers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/605.%20Can%20Place%20Flowers.cpp)<br />
 
 
