@@ -6,4 +6,10 @@
 ## [6. Optimum location of point to minimize total distance](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Optimum%20location%20of%20point%20to%20minimize%20total%20distance)<br />
 ## [7. Find the repeating and the missing](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Find%20the%20repeating%20and%20the%20missing)<br />
 ## [8. find majority element](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/find%20majority%20element)<br />
+## [9. Searching in an array where adjacent differ by at most k](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Searching%20in%20an%20array%20where%20adjacent%20differ%20by%20at%20most%20k)<br />
+## [10. find a pair with a given difference](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/find%20a%20pair%20with%20a%20given%20difference)<br />
+## [11. find four elements that sum to a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/find%20four%20elements%20that%20sum%20to%20a%20given%20value)<br />
+## [12. maximum sum such that no 2 elements are adjacent](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/maximum%20sum%20such%20that%20no%202%20elements%20are%20adjacent)<br />
+## [13. Count triplet with sum smaller than a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Count%20triplet%20with%20sum%20smaller%20than%20a%20given%20value)<br />
+## [14. merge 2 sorted arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%202%20sorted%20arrays%20without%20using%20Extra%20space)<br />
 
