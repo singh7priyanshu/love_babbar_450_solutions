@@ -105,5 +105,7 @@
 ### [290. Word Pattern](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/290.%20Word%20Pattern.cpp)<br />
 ### [171. Excel Sheet Column Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/171.%20Excel%20Sheet%20Column%20Number.cpp)<br />
 ### [605. Can Place Flowers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/605.%20Can%20Place%20Flowers.cpp)<br />
-
-
+### [133. Clone Graph](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/133.%20Clone%20Graph.cpp)<br />
+### [875. Koko Eating Bananas](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/875.%20Koko%20Eating%20Bananas.cpp)<br />
+### [148. Sort List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/148.%20Sort%20List.cpp)<br />
+### [142. Linked List Cycle II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/142.%20Linked%20List%20Cycle%20II.cpp)<br />
