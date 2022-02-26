@@ -69,3 +69,14 @@ int main(){
     }
     return 0;
 }
+
+/*
+map_name.count(key k)
+Parameters: The function accepts a mandatory parameter k which specifies the key 
+to be searched in the map container.
+
+Return Value: The function returns the number of times the key K is present in 
+the map container. It returns 1 if the key is present in the container as the map 
+only contains a unique key. It returns 0 if the key is not present in the map container.
+
+*/
