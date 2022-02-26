@@ -90,3 +90,42 @@ int main(){
     }
     return 0;
 }
+
+/*
+stable_sort() is used to sort the elements in the range [first, last) 
+in ascending order. It is like std::sort, but stable_sort() keeps the 
+relative order of elements with equivalent values. It comes under the 
+<algorithm> header file.
+
+It is O(n*log^2(n)). 
+
+If additional memory linearly proportional to length is not 
+available. If its available then O(n*log(n)).
+
+Syntax:
+
+template< class RandomIterator>
+void stable_sort( RandomIterator first, RandomIterator last );
+or
+
+template< class RandomIterator, class Compare>
+void stable_sort( RandomIterator first, RandomIterator last, Compare comp );
+Parameters:
+
+first:  iterator pointing to the first element in the range.
+last:  iterator pointing to the past last element in the range.
+comp: predicate function that accepts two arguments and returns true if the 
+ two arguments are in order and false otherwise.
+ 
+ 
+Like sort(), stable_sort() takes a third parameter that is used to specify 
+the order in which elements are to be sorted. We can pass “greater()” function 
+to sort in decreasing order. This function does comparison in a way that puts 
+greater element before. 
+
+Syntax:
+
+// arr is the array and n is the size
+stable_sort(arr, arr + n, greater<int>());  
+
+*/
