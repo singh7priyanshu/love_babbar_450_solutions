@@ -12,4 +12,8 @@
 ## [12. maximum sum such that no 2 elements are adjacent](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/maximum%20sum%20such%20that%20no%202%20elements%20are%20adjacent)<br />
 ## [13. Count triplet with sum smaller than a given value](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Count%20triplet%20with%20sum%20smaller%20than%20a%20given%20value)<br />
 ## [14. merge 2 sorted arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Merge%202%20sorted%20arrays%20without%20using%20Extra%20space)<br />
+## [15. print all subarrays with 0 sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/print%20all%20subarrays%20with%200%20sum)<br />
+## [16. Product array Puzzle](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Product%20array%20Puzzle)<br />
+## [17. Sort array according to count of set bits](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Sort%20array%20according%20to%20count%20of%20set%20bits)<br />
+
 
