@@ -113,3 +113,5 @@
 ### [134. Gas Station](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/134.%20Gas%20Station.cpp)<br />
 ### [Longest Common Substring](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Longest%20Common%20Substring.cpp)<br />
 ### [Nth Natural Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Nth%20Natural%20Number.cpp)<br />
+### [847. Shortest Path Visiting All Nodes](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/847.%20Shortest%20Path%20Visiting%20All%20Nodes.cpp)<br />
+### [662. Maximum Width of Binary Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)<br />
