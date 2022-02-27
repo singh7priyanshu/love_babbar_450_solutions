@@ -111,4 +111,5 @@
 ### [142. Linked List Cycle II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/142.%20Linked%20List%20Cycle%20II.cpp)<br />
 ### [165. Compare Version Numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/165.%20Compare%20Version%20Numbers.cpp)<br />
 ### [134. Gas Station](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/134.%20Gas%20Station.cpp)<br />
-
+### [Longest Common Substring](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Longest%20Common%20Substring.cpp)<br />
+### [Nth Natural Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Nth%20Natural%20Number.cpp)<br />
