@@ -82,3 +82,49 @@ int main(){
     }
     return 0;
 }
+
+/*
+// C++ program to demonstrate sorting in
+// vector of pair according to 1st element
+// of pair
+#include<bits/stdc++.h>
+using namespace std;
+
+bool sortbysec(const pair<int,int> &a, const pair<int,int> &b){
+    return (a.second < b.second);
+}
+  
+int main(){
+	vector< pair <int,int> > vect;
+	int arr[] = {10, 20, 5, 40 };
+	int arr1[] = {30, 60, 20, 50};
+	int n = sizeof(arr)/sizeof(arr[0]);
+	for (int i=0; i<n; i++)vect.push_back( make_pair(arr[i],arr1[i]) );
+	cout << "The vector before sort operation is:\n" ;
+	for (int i=0; i<n; i++)cout << vect[i].first << " "<< vect[i].second << endl;
+		OUTPUT
+		The vector before applying sort operation is:
+			10 30
+			20 60
+			5 20
+			40 50
+	sort(vect.begin(), vect.end());
+	cout << "The vector after sort operation is:\n" ;
+	for (int i=0; i<n; i++)cout << vect[i].first << " "<< vect[i].second << endl;
+		OUTPUT
+		The vector after applying sort operation is:
+			5 20
+			10 30
+			20 60	
+			40 50
+	sort(vect.begin(), vect.end(), sortbysec);
+	cout << "The vector after sort operation is:\n" ;
+    	for (int i=0; i<n; i++)cout << vect[i].first << " "<< vect[i].second << endl;
+    		OUTPUT
+		The vector after applying sort operation is:
+			5 20
+			10 30
+			40 50	
+			20 60
+	return 0;
+}
