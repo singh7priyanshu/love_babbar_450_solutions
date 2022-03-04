@@ -32,3 +32,5 @@
 ## [32. DoubleHelix SPOJ](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/DoubleHelix%20SPOJ)<br />
 ## [33. Subset Sums](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Subset%20Sums)<br />
 ## [34. Findthe inversion count](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Findthe%20inversion%20count)<br />
+## [35. Implement Merge-sort in-place](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Implement%20Merge-sort%20in-place)<br />
+## [36. Partitioning and Sorting Arrays with Many Repeated Entries](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Partitioning%20and%20Sorting%20Arrays%20with%20Many%20Repeated%20Entries)<br />
