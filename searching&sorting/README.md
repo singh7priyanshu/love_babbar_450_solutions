@@ -15,5 +15,20 @@
 ## [15. print all subarrays with 0 sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/print%20all%20subarrays%20with%200%20sum)<br />
 ## [16. Product array Puzzle](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Product%20array%20Puzzle)<br />
 ## [17. Sort array according to count of set bits](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Sort%20array%20according%20to%20count%20of%20set%20bits)<br />
-
-
+## [18. minimum no. of swaps required to sort the array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/minimum%20no.%20of%20swaps%20required%20to%20sort%20the%20array)<br />
+## [19. Bishu and Soldiers](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Bishu%20and%20Soldiers)<br />
+## [20. Rasta and Kheshtak](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Rasta%20and%20Kheshtak)<br />
+## [21. Kth smallest number again](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Kth%20smallest%20number%20again)<br />
+## [22. Find pivot element in a sorted array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Find%20pivot%20element%20in%20a%20sorted%20array)<br />
+## [23. K-th Element of Two Sorted Arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/K-th%20Element%20of%20Two%20Sorted%20Arrays)<br />
+## [24. Aggressive cows](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Aggressive%20cows)<br />
+## [25. Book Allocation Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Book%20Allocation%20Problem)<br />
+## [26. EKOSPOJ](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/EKOSPOJ)<br />
+## [27. Job Scheduling Algo](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Job%20Scheduling%20Algo)<br />
+## [28. Missing Number in AP](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Missing%20Number%20in%20AP)<br />
+## [29. Smallest number with atleastn trailing zeroes infactorial](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Smallest%20number%20with%20atleastn%20trailing%20zeroes%20infactorial)<br />
+## [30. Painters Partition Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Painters%20Partition%20Problem)<br />
+## [31. ROTI-Prata SPOJ](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/ROTI-Prata%20SPOJ)<br />
+## [32. DoubleHelix SPOJ](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/DoubleHelix%20SPOJ)<br />
+## [33. Subset Sums](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Subset%20Sums)<br />
+## [34. Findthe inversion count](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/searching%26sorting/Findthe%20inversion%20count)<br />
