@@ -115,3 +115,9 @@
 ### [Nth Natural Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Nth%20Natural%20Number.cpp)<br />
 ### [847. Shortest Path Visiting All Nodes](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/847.%20Shortest%20Path%20Visiting%20All%20Nodes.cpp)<br />
 ### [662. Maximum Width of Binary Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)<br />
+### [338. Counting Bits](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/338.%20Counting%20Bits.cpp)<br />
+### [228. Summary Ranges](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/228.%20Summary%20Ranges.cpp)<br />
+### [392. Is Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/392.%20Is%20Subsequence.cpp)<br />
+### [413. Arithmetic Slices](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/413.%20Arithmetic%20Slices.cpp)<br />
+### [799. Champagne Tower](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/799.%20Champagne%20Tower.cpp)<br />
+### [740. Delete and Earn](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/740.%20Delete%20and%20Earn.cpp)<br />
