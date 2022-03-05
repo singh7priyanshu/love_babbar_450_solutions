@@ -1,0 +1,65 @@
+/*
+228. Summary Ranges
+
+You are given a sorted unique integer array nums.
+
+Return the smallest sorted list of ranges that cover all the numbers 
+in the array exactly. That is, each element of nums is covered by 
+exactly one of the ranges, and there is no integer x such that x is 
+in one of the ranges but not in nums.
+
+Each range [a,b] in the list should be output as:
+
+"a->b" if a != b
+"a" if a == b
+ 
+
+Example 1:
+
+Input: nums = [0,1,2,4,5,7]
+Output: ["0->2","4->5","7"]
+Explanation: The ranges are:
+[0,2] --> "0->2"
+[4,5] --> "4->5"
+[7,7] --> "7"
+Example 2:
+
+Input: nums = [0,2,3,4,6,8,9]
+Output: ["0","2->4","6","8->9"]
+Explanation: The ranges are:
+[0,0] --> "0"
+[2,4] --> "2->4"
+[6,6] --> "6"
+[8,9] --> "8->9"
+ 
+
+Constraints:
+
+0 <= nums.length <= 20
+-231 <= nums[i] <= 231 - 1
+All the values of nums are unique.
+nums is sorted in ascending order.
+*/
+
+class Solution {
+public:
+    vector<string> summaryRanges(vector<int>& arr) {
+        int n = arr.size(); 
+        vector<string> ans; 
+        string temp = ""; 
+        for(int i = 0; i < n; i++){
+            int j = i;        
+            while(j + 1 < n && arr[j + 1] == arr[j] + 1)j++;
+            if(j > i){
+                temp += to_string(arr[i]); 
+                temp += "->"; 
+                temp += to_string(arr[j]);
+            }
+            else temp += to_string(arr[i]); 
+            ans.push_back(temp); 
+            temp = ""; 
+            i = j; 
+        }
+        return ans; 
+    }
+};
