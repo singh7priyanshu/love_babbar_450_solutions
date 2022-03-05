@@ -121,3 +121,6 @@
 ### [413. Arithmetic Slices](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/413.%20Arithmetic%20Slices.cpp)<br />
 ### [799. Champagne Tower](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/799.%20Champagne%20Tower.cpp)<br />
 ### [740. Delete and Earn](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/740.%20Delete%20and%20Earn.cpp)<br />
+### [Ugly Numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Ugly%20Numbers.cpp)<br />
+### [Return two prime numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Return%20two%20prime%20numbers.cpp)<br />
+### [Circular tour](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Circular%20tour.cpp)<br />
