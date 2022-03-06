@@ -1,7 +1,8 @@
 /*
 Coin ChangeProblem
 
-Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM } valued coins.
+Given a value N, find the number of ways to make change for N cents, 
+if we have infinite supply of each of S = { S1, S2, .. , SM } valued coins.
 
 
 Example 1:
@@ -23,7 +24,9 @@ Explanation: Five Possible ways are:
 and {5,5}.
 
 Your Task:
-You don't need to read input or print anything. Your task is to complete the function count() which accepts an array S[] its size m and n as input parameter and returns the number of ways to make change for N cents.
+You don't need to read input or print anything. Your task is to complete 
+the function count() which accepts an array S[] its size m and n as input 
+parameter and returns the number of ways to make change for N cents.
 
 
 Expected Time Complexity: O(m*n).
@@ -69,3 +72,42 @@ int main(){
     }
     return 0;
 }
+
+/*
+Memset() converts the value ch to unsigned char and copies it into each of the 
+first n characters of the object pointed to by str[]. If the object is not 
+trivially-copyable (e.g., scalar, array, or a C-compatible struct), the behavior 
+is undefined. 
+
+If n is greater than the size of the object pointed to by str, the behavior is undefined. 
+
+Parameters:
+
+str[] : Pointer to the object to copy the character.
+ch : The character to copy.
+n : Number of bytes to copy.
+
+
+// CPP program to demonstrate memset
+#include <cstring>
+#include <iostream>
+using namespace std;
+
+// Driver Code
+int main()
+{
+	char str[] = "geeksforgeeks";
+	memset(str, 't', sizeof(str));
+	cout << str;
+	return 0;
+}
+
+Output
+
+tttttttttttttt
+
+Note: We can use memset() to set all values as 0 or -1 for integral data 
+types also. It will not work if we use it to set as other values. The 
+reason is simple, memset works byte by byte.  
+
+*/
