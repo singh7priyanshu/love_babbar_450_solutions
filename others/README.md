@@ -124,3 +124,4 @@
 ### [Ugly Numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Ugly%20Numbers.cpp)<br />
 ### [Return two prime numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Return%20two%20prime%20numbers.cpp)<br />
 ### [Circular tour](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/gfg/Circular%20tour.cpp)<br />
+### [1359. Count All Valid Pickup and Delivery Options](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)<br />
