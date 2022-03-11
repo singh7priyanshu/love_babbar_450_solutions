@@ -127,3 +127,7 @@
 ### [1359. Count All Valid Pickup and Delivery Options](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)<br />
 ### [141. Linked List Cycle](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/141.%20Linked%20List%20Cycle.cpp)<br />
 ### [82. Remove Duplicates from Sorted List II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)<br />
+### [2. Add Two Numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/2.%20Add%20Two%20Numbers.cpp)<br />
+### [61. Rotate List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/61.%20Rotate%20List.cpp)<br />
+
+
