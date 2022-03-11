@@ -13,5 +13,12 @@
 ## [13. Maximize The Cut Segments](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximize%20The%20Cut%20Segments)<br />
 ## [14. Longest Common Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/strings/Find%20the%20longest%20common%20subsequence%20between%20two%20strings/sol.cpp)<br />
 ## [15. Longest Repeated Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/strings/Find%20Longest%20Recurring%20Subsequence%20in%20String/sol.cpp)<br />
+## [16. Longest Increasing Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Increasing%20Subsequence)<br />
+## [17. Space Optimized Solution of LCS](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Space%20Optimized%20Solution%20of%20LCS)<br />
+## [18. LCS (Longest Common Subsequence) of three strings](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/LCS%20(Longest%20Common%20Subsequence)%20of%20three%20strings)<br />
+## [19. Maximum Sum Increasing Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximum%20Sum%20Increasing%20Subsequence)<br />
+## [20. Count all subsequences having product less than K](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20all%20subsequences%20having%20product%20less%20than%20K)<br />
+## [21. Longest subsequence such that difference between adjacent is one](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20subsequence%20such%20that%20difference%20between%20adjacent%20is%20one)<br />
+
 
 
