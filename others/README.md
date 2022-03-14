@@ -12,7 +12,7 @@
 ### [Letter Combinations of a Phone Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)<br />
 ### [4Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/4Sum.cpp)<br />
 ### [Remove Nth Node From End of List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Remove%20Nth%20Node%20From%20End%20of%20List.cpp)<br />
-### [Valid Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Valid%20Parentheses.cpp)<br />
+### [20. Valid Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Valid%20Parentheses.cpp)<br />
 ### [Merge Two Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Merge%20Two%20Sorted%20Lists.cpp)<br />
 ### [Generate Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Generate%20Parentheses.cpp)<br />
 ### [Merge k Sorted Lists](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Merge%20k%20Sorted%20Lists.cpp)<br />
@@ -129,5 +129,11 @@
 ### [82. Remove Duplicates from Sorted List II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)<br />
 ### [2. Add Two Numbers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/2.%20Add%20Two%20Numbers.cpp)<br />
 ### [61. Rotate List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/61.%20Rotate%20List.cpp)<br />
+### [221. Maximal Square](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20size%20square%20sub-matrix%20with%20all%201s/sol.cpp)<br />
+
+### [138. Copy List with Random Pointer](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/138.%20Copy%20List%20with%20Random%20Pointer.cpp)<br />
+### [1834. Single-Threaded CPU](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1834.%20Single-Threaded%20CPU.cpp)<br />
+### [71. Simplify Path](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/71.%20Simplify%20Path.cpp)<br />
+
 
 
