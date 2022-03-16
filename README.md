@@ -1,7 +1,6 @@
 # love_babbar_reading_material
 
 ## [Arrays](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/array)
-
 ## [Matrix](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/matrix)
 ## [Strings](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/strings)
 ## [Searching & Sorting](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/searching%26sorting)
@@ -18,6 +17,7 @@
 ## [Bit Manipulation](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/bit_manipulation)
 ## Others
 ### [questions from leetcode and geekforgeeks](https://github.com/singh7priyanshu/lovebabbarreadingmaterial/tree/main/others)
+### [important subjects regarding interview preparation](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/subjects/README.md)<br />
 
 
 
