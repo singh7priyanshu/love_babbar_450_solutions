@@ -28,9 +28,9 @@
 ## [28. Maximum difference of zeros and ones in binary string](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximum%20difference%20of%20zeros%20and%20ones%20in%20binary%20string)<br />
 ## [29. Minimum number of jumps to reach end](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Minimum%20no.%20of%20Jumps%20to%20reach%20end%20of%20an%20array/sol.cpp)<br />
 ## [30. Minimum cost to fill given weight in a bag](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Minimum%20cost%20to%20fill%20given%20weight%20in%20a%20bag)<br />
-## [31. Minimum removals from array to make max–min <= K]()<br />
+## [31. Minimum removals from array to make max–min <= K](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Minimum%20removals%20from%20array%20to%20make%20max-min%20is%20less%20than%20or%20equal%20to%20K)<br />
 ## [32. Longest Common Substring](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Common%20Substring)<br />
-## [33. Count number of ways to reacha given score in a game]()<br />
+## [33. Count number of ways to reacha given score in a game](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20number%20of%20ways%20to%20reacha%20given%20score%20in%20a%20game)<br />
 
 
 
