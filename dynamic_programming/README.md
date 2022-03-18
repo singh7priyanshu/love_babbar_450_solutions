@@ -31,6 +31,10 @@
 ## [31. Minimum removals from array to make max–min <= K](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Minimum%20removals%20from%20array%20to%20make%20max-min%20is%20less%20than%20or%20equal%20to%20K)<br />
 ## [32. Longest Common Substring](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Common%20Substring)<br />
 ## [33. Count number of ways to reacha given score in a game](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20number%20of%20ways%20to%20reacha%20given%20score%20in%20a%20game)<br />
+## [34. Count Balanced Binary Trees of Height h](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20Balanced%20Binary%20Trees%20of%20Height%20h)<br />
+## [35. LargestSum Contiguous Subarray [V>V>V>V IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20Largest%20sum%20contiguous%20Subarray%20%5BV.%20IMP%5D%20%20question%20repeated%20KADANE%E2%80%99S%20ALGORITHM)<br />
+## [36. Smallest sum contiguous subarray](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Smallest%20sum%20contiguous%20subarray)<br />
+
 
 
 
