@@ -67,7 +67,7 @@ class Solution
 {
 public:
     int wordBreak(string A, vector<string> &B) {
-        int i, j, k, n = B.size();
+        int i, j, n = B.size();
         set<string>mp;
         for(i = 0;i<n;i++)mp.insert(B[i]);
         int len = A.size();
