@@ -41,10 +41,11 @@
 ## [41. Longest Palindromic Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Palindromic%20Subsequence)<br />
 ## [42. Count All Palindromic Subsequence in a given String](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20All%20Palindromic%20Subsequence%20in%20a%20given%20String)<br />
 ## [43. Longest Palindromic Substring](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Longest%20Palindromic%20Substring.cpp)<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
+## [44. Longest alternating subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20alternating%20subsequence)<br />
+## [45. Weighted Job Scheduling](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Weighted%20Job%20Scheduling)<br />
+## [46. Coin game winner where every player has three choices](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Coin%20game%20winner%20where%20every%20player%20has%20three%20choices)<br />
+## [47. Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20Derangements%20(Permutation%20such%20that%20no%20element%20appears%20in%20its%20original%20position)%20%5B%20IMPORTANT%20%5D)<br />
+
 
 
 
