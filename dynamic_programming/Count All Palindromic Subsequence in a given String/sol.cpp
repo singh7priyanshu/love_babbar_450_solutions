@@ -89,6 +89,9 @@ int main(){
 /*
 Leetcode 
 
+730. Count Different Palindromic Subsequences
+https://leetcode.com/problems/count-different-palindromic-subsequences/
+
 Given a string s, return the number of different 
 non-empty palindromic subsequences in s. Since the 
 answer may be very large, return it modulo 109 + 7.
