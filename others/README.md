@@ -135,6 +135,4 @@
 ### [1834. Single-Threaded CPU](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1834.%20Single-Threaded%20CPU.cpp)<br />
 ### [71. Simplify Path](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/71.%20Simplify%20Path.cpp)<br />
 ### [416. Partition Equal Subset Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Subset%20Sum%20Problem/sol.cpp)<br />
-
-
-
+### [516. Longest Palindromic Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Palindromic%20Subsequence)<br />
