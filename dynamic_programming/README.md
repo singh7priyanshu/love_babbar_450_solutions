@@ -39,7 +39,7 @@
 ## [39. Largest Independent Set Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Largest%20Independent%20Set%20Problem)<br />
 ## [40. Partition problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Subset%20Sum%20Problem)<br />
 ## [41. Longest Palindromic Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Palindromic%20Subsequence)<br />
-## []()<br />
+## [42. Count All Palindromic Subsequence in a given String](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20All%20Palindromic%20Subsequence%20in%20a%20given%20String)<br />
 ## []()<br />
 ## []()<br />
 ## []()<br />
