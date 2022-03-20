@@ -137,3 +137,6 @@
 ### [416. Partition Equal Subset Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Subset%20Sum%20Problem/sol.cpp)<br />
 ### [516. Longest Palindromic Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Palindromic%20Subsequence)<br />
 ### [730. Count Different Palindromic Subsequences](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Count%20All%20Palindromic%20Subsequence%20in%20a%20given%20String/sol.cpp)<br />
+### [376. Wiggle Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Longest%20alternating%20subsequence/sol.cpp)<br />
+### [1235. Maximum Profit in Job Scheduling](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Weighted%20Job%20Scheduling/sol.cpp)<br />
+
