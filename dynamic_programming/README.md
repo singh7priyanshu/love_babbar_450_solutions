@@ -34,6 +34,17 @@
 ## [34. Count Balanced Binary Trees of Height h](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Count%20Balanced%20Binary%20Trees%20of%20Height%20h)<br />
 ## [35. LargestSum Contiguous Subarray [V>V>V>V IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/find%20Largest%20sum%20contiguous%20Subarray%20%5BV.%20IMP%5D%20%20question%20repeated%20KADANE%E2%80%99S%20ALGORITHM)<br />
 ## [36. Smallest sum contiguous subarray](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Smallest%20sum%20contiguous%20subarray)<br />
+## [37. Unbounded Knapsack (Repetition of items allowed)](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Unbounded%20Knapsack%20(Repetition%20of%20items%20allowed))<br />
+## [38. Word Break Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Word%20break%20Problem%5B%20Very%20Imp%5D)<br />
+## [39. Largest Independent Set Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Largest%20Independent%20Set%20Problem)<br />
+## [40. Partition problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Subset%20Sum%20Problem)<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
 
 
 
