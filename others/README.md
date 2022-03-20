@@ -136,3 +136,4 @@
 ### [71. Simplify Path](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/71.%20Simplify%20Path.cpp)<br />
 ### [416. Partition Equal Subset Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Subset%20Sum%20Problem/sol.cpp)<br />
 ### [516. Longest Palindromic Subsequence](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Longest%20Palindromic%20Subsequence)<br />
+### [730. Count Different Palindromic Subsequences](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Count%20All%20Palindromic%20Subsequence%20in%20a%20given%20String/sol.cpp)<br />
