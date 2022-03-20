@@ -134,6 +134,7 @@
 ### [138. Copy List with Random Pointer](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/138.%20Copy%20List%20with%20Random%20Pointer.cpp)<br />
 ### [1834. Single-Threaded CPU](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1834.%20Single-Threaded%20CPU.cpp)<br />
 ### [71. Simplify Path](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/71.%20Simplify%20Path.cpp)<br />
+### [416. Partition Equal Subset Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Subset%20Sum%20Problem/sol.cpp)<br />
 
 
 
