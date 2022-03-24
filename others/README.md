@@ -147,4 +147,15 @@
 ### [188. Best Time to Buy and Sell Stock IV](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20at%20most%20k%20times/sol.cpp)<br />
 ### [97. Interleaving String](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Find%20if%20a%20string%20is%20interleaved%20of%20two%20other%20strings/sol.cpp)<br />
 ### [646. Maximum Length of Pair Chain](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20Length%20of%20Pair%20Chain/sol.cpp)<br />
-
+### [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.cpp)<br />
+### [110. Balanced Binary Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/110.%20Balanced%20Binary%20Tree.cpp)<br />
+### [1249. Minimum Remove to Make Valid Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)<br />
+### [209. Minimum Size Subarray Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/209.%20Minimum%20Size%20Subarray%20Sum.cpp)<br />
+### [946. Validate Stack Sequences](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/946.%20Validate%20Stack%20Sequences.cpp)<br />
+### [856. Score of Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/856.%20Score%20of%20Parentheses.cpp)<br />
+### [316. Remove Duplicate Letters](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/316.%20Remove%20Duplicate%20Letters.cpp)<br />
+### [895. Maximum Frequency Stack](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/895.%20Maximum%20Frequency%20Stack.cpp)<br />
+### [763. Partition Labels](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/763.%20Partition%20Labels.cpp)<br />
+### [1663. Smallest String With A Given Numeric Value](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp)<br />
+### [991. Broken Calculator](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/991.%20Broken%20Calculator.cpp)<br />
+### [881. Boats to Save People](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/881.%20Boats%20to%20Save%20People.cpp)<br />
