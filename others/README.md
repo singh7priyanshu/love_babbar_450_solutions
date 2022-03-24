@@ -142,4 +142,9 @@
 ### [123. Best Time to Buy and Sell Stock III](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20at%20most%20twice%20%5B%20IMP%20%5D/sol.cpp)<br />
 ### [131. Palindrome Partitioning](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Palindrome%20PartitioningProblem/sol.cpp)<br />
 ### [1106. Parsing A Boolean Expression](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Boolean%20Parenthesization%20Problem/sol.cpp)<br />
+### [363. Max Sum of Rectangle No Larger Than K](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20sum%20rectangle%20in%20a%202D%20matrix/sol.cpp)<br />
+### [85. Maximal Rectangle](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20sum%20rectangle%20in%20a%202D%20matrix/sol.cpp)<br />
+### [188. Best Time to Buy and Sell Stock IV](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20at%20most%20k%20times/sol.cpp)<br />
+### [97. Interleaving String](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Find%20if%20a%20string%20is%20interleaved%20of%20two%20other%20strings/sol.cpp)<br />
+### [646. Maximum Length of Pair Chain](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/dynamic_programming/Maximum%20Length%20of%20Pair%20Chain/sol.cpp)<br />
 
