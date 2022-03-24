@@ -52,6 +52,9 @@
 ## [52. Word Wrap Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D)<br />
 ## [53. Mobile Numeric Keypad Problem [ IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Mobile%20Numeric%20Keypad%20Problem%20%5B%20IMP%20%5D)<br />
 ## [54. Boolean Parenthesization Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Boolean%20Parenthesization%20Problem)<br />
+## [55. Largest rectangular sub-matrix whose sum is 0](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Largest%20rectangular%20sub-matrix%20whose%20sum%20is%200)<br />
+## [56. Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Largest%20area%20rectangular%20sub-matrix%20with%20equal%20number%20of%201%E2%80%99s%20and%200%E2%80%99s%20%5B%20IMP%20%5D)<br />
+## [57. Maximum sum rectangle in a 2D matrix]()<br />
 
 
 
