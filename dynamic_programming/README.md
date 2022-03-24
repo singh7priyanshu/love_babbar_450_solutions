@@ -54,7 +54,10 @@
 ## [54. Boolean Parenthesization Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Boolean%20Parenthesization%20Problem)<br />
 ## [55. Largest rectangular sub-matrix whose sum is 0](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Largest%20rectangular%20sub-matrix%20whose%20sum%20is%200)<br />
 ## [56. Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Largest%20area%20rectangular%20sub-matrix%20with%20equal%20number%20of%201%E2%80%99s%20and%200%E2%80%99s%20%5B%20IMP%20%5D)<br />
-## [57. Maximum sum rectangle in a 2D matrix]()<br />
+## [57. Maximum sum rectangle in a 2D matrix](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximum%20sum%20rectangle%20in%20a%202D%20matrix)<br />
+## [58. Maximum profit by buying and selling a share at most k times](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20at%20most%20k%20times)<br />
+## [59. Find if a string is interleaved of two other strings](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Find%20if%20a%20string%20is%20interleaved%20of%20two%20other%20strings)<br />
+## [60. Maximum Length of Pair Chain](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximum%20Length%20of%20Pair%20Chain)<br />
 
 
 
