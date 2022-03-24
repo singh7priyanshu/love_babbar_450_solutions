@@ -48,7 +48,10 @@
 ## [48. Maximum profit by buying and selling a share at most twice [ IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Maximum%20profit%20by%20buying%20and%20selling%20a%20share%20at%20most%20twice%20%5B%20IMP%20%5D)<br />
 ## [49. Optimal Strategy for a Game](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Optimal%20Strategy%20for%20a%20Game)<br />
 ## [50. Optimal Binary Search Tree](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Optimal%20Binary%20Search%20Tree)<br />
-
+## [51. Palindrome PartitioningProblem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Palindrome%20PartitioningProblem)<br />
+## [52. Word Wrap Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D)<br />
+## [53. Mobile Numeric Keypad Problem [ IMP ]](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Mobile%20Numeric%20Keypad%20Problem%20%5B%20IMP%20%5D)<br />
+## [54. Boolean Parenthesization Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/dynamic_programming/Boolean%20Parenthesization%20Problem)<br />
 
 
 
