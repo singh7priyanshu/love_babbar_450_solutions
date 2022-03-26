@@ -159,3 +159,4 @@
 ### [1663. Smallest String With A Given Numeric Value](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.cpp)<br />
 ### [991. Broken Calculator](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/991.%20Broken%20Calculator.cpp)<br />
 ### [881. Boats to Save People](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/881.%20Boats%20to%20Save%20People.cpp)<br />
+### [1029. Two City Scheduling](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1029.%20Two%20City%20Scheduling.cpp)<br />
