@@ -160,3 +160,6 @@
 ### [991. Broken Calculator](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/991.%20Broken%20Calculator.cpp)<br />
 ### [881. Boats to Save People](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/881.%20Boats%20to%20Save%20People.cpp)<br />
 ### [1029. Two City Scheduling](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1029.%20Two%20City%20Scheduling.cpp)<br />
+### [287. Find the Duplicate Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/287.%20Find%20the%20Duplicate%20Number.cpp)<br />
+### [81. Search in Rotated Sorted Array II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)<br />
+### [1337. The K Weakest Rows in a Matrix](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)<br />
