@@ -13,3 +13,22 @@
 ## [13. Check if it is possible to survive on Island](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Check%20if%20it%20is%20possible%20to%20survive%20on%20Island)<br />
 ## [14. Find maximum meetings in one room](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Find%20maximum%20meetings%20in%20one%20room)<br />
 ## [15. Maximize array sum after K negations](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximize%20array%20sum%20after%20K%20negations)<br />
+## [16. Maximize the sum of arr[i]*i](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximize%20the%20sum%20of%20arr%5Bi%5D.i)<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+## []()<br />
+
