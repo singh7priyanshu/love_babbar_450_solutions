@@ -23,7 +23,7 @@
 ### [Implement strStr()](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Implement%20strStr().cpp)<br />
 ### [Divide Two Integers](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Divide%20Two%20Integers.cpp)<br />
 ### [Substring with Concatenation of all Words](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Substring%20with%20Concatenation%20of%20All%20Words.cpp)<br />
-### [Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Next%20Permutation/sol.cpp)<br />
+### [31. Next Permutation](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/array/Next%20Permutation/sol.cpp)<br />
 ### [Longest Valid Parenthesis](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Longest%20Valid%20Parentheses.cpp)<br />
 ### [33. Search in Rotated Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Search%20in%20Rotated%20Sorted%20Array.cpp)<br />
 ### [Find First and Last Position of Element in Sorted Array](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)<br />
