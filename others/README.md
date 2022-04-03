@@ -163,3 +163,8 @@
 ### [287. Find the Duplicate Number](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/287.%20Find%20the%20Duplicate%20Number.cpp)<br />
 ### [81. Search in Rotated Sorted Array II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)<br />
 ### [1337. The K Weakest Rows in a Matrix](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)<br />
+### [74. Search a 2D Matrix](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/74.%20Search%20a%202D%20Matrix.cpp)<br />
+### [410. Split Array Largest Sum](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/410.%20Split%20Array%20Largest%20Sum.cpp)<br />
+### [344. Reverse String](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/344.%20Reverse%20String.cpp)<br />
+### [680. Valid Palindrome II](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/680.%20Valid%20Palindrome%20II.cpp)<br />
+### [1005. Maximize Sum Of Array After K Negations](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/greedy/Maximize%20array%20sum%20after%20K%20negations/sol.cpp)<br />
