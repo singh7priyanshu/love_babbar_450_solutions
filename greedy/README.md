@@ -19,14 +19,13 @@
 ## [19. Maximize sum of consecutive differences in a circular array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximum%20sum%20of%20absolute%20difference%20of%20an%20array)<br />
 ## [20. Minimum sum of absolute difference of pairs of two arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Minimum%20sum%20of%20absolute%20difference%20of%20pairs%20of%20two%20arrays)<br />
 ## [21. Program for Shortest Job First (or SJF) CPU Scheduling](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Program%20for%20Shortest%20Job%20First%20(or%20SJF)%20CPU%20Scheduling)<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
+## [22. Program for Least Recently Used (LRU) Page Replacement algorithm](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Program%20for%20Least%20Recently%20Used%20(LRU)%20Page%20Replacement%20algorithm)<br />
+## [23. Smallest subset with sum greater than all other elements](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Smallest%20subset%20with%20sum%20greater%20than%20all%20other%20elements)<br />
+## [24. Chocolate Distribution Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/array/Chocolate%20Distribution%20problem)<br />
+## [25. DEFKIN -Defense of a Kingdom](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/DEFKIN%20-Defense%20of%20a%20Kingdom)<br />
+## [26. DIEHARD -DIE HARD](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/DIEHARD%20-DIE%20HARD)<br />
+## [27. GERGOVIA -Wine trading in Gergovia](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/GERGOVIA%20-Wine%20trading%20in%20Gergovia)<br />
+## [28. Picking Up Chicks](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Picking%20Up%20Chicks)<br />
 ## []()<br />
 ## []()<br />
 ## []()<br />
