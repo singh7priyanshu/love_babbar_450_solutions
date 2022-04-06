@@ -6,6 +6,7 @@ In operating systems that use paging for memory management, page replacement alg
 Given a sequence of pages in an array pages[] of length N and memory capacity C, find the number of page faults using Least Recently Used (LRU) Algorithm. 
 
 Note:- Before solving this example revising the OS LRU cache mechanism is recommended.
+https://www.geeksforgeeks.org/lru-cache-implementation/
 
 Example 1:
 
