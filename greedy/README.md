@@ -15,10 +15,10 @@
 ## [15. Maximum product subset of an array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximum%20product%20subset%20of%20an%20array)<br />
 ## [16. Maximize array sum after K negations](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximize%20array%20sum%20after%20K%20negations)<br />
 ## [17. Maximize the sum of arr[i]*i](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximize%20the%20sum%20of%20arr%5Bi%5D.i)<br />
-## [18. Maximum sum of absolute difference of an array]()<br />
-## []()<br />
-## []()<br />
-## []()<br />
+## [18. Maximum sum of absolute difference of an array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximum%20sum%20of%20absolute%20difference%20of%20an%20array)<br />
+## [19. Maximize sum of consecutive differences in a circular array](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Maximum%20sum%20of%20absolute%20difference%20of%20an%20array)<br />
+## [20. Minimum sum of absolute difference of pairs of two arrays](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Minimum%20sum%20of%20absolute%20difference%20of%20pairs%20of%20two%20arrays)<br />
+## [21. Program for Shortest Job First (or SJF) CPU Scheduling](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Program%20for%20Shortest%20Job%20First%20(or%20SJF)%20CPU%20Scheduling)<br />
 ## []()<br />
 ## []()<br />
 ## []()<br />
