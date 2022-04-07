@@ -26,9 +26,11 @@
 ## [26. DIEHARD -DIE HARD](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/DIEHARD%20-DIE%20HARD)<br />
 ## [27. GERGOVIA -Wine trading in Gergovia](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/GERGOVIA%20-Wine%20trading%20in%20Gergovia)<br />
 ## [28. Picking Up Chicks](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Picking%20Up%20Chicks)<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
-## []()<br />
+## [29. CHOCOLA –Chocolate](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/CHOCOLA%20%E2%80%93Chocolate)<br />
+## [30. ARRANGE -Arranging Amplifiers](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/ARRANGE%20-Arranging%20Amplifiers)<br />
+## [31. K Centers Problem](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/K%20Centers%20Problem)<br />
+## [32. Minimum Cost of ropes](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Minimum%20Cost%20of%20ropes)<br />
+## [33. Find smallest number with given number of digits and sum of digits](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Find%20smallest%20number%20with%20given%20number%20of%20digits%20and%20sum%20of%20digits)<br />
+## [34. Rearrange characters in a string such that no two adjacent are same](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/strings/Rearrange%20characters%20in%20a%20string%20such%20that%20no%20two%20adjacent%20are%20same)<br />
+## [35. Find maximum sum possible equal sum of three stacks](https://github.com/singh7priyanshu/love_babbar_450_solutions/tree/main/greedy/Find%20maximum%20sum%20possible%20equal%20sum%20of%20three%20stacks)<br />
 
