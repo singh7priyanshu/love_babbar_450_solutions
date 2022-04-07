@@ -170,3 +170,4 @@
 ### [1005. Maximize Sum Of Array After K Negations](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/greedy/Maximize%20array%20sum%20after%20K%20negations/sol.cpp)<br />
 ### [1721. Swapping Nodes in a Linked List](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)<br />
 ### [923. 3Sum With Multiplicity](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/923.%203Sum%20With%20Multiplicity.cpp)<br />
+### [1046. Last Stone Weight](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1046.%20Last%20Stone%20Weight.cpp)<br />
