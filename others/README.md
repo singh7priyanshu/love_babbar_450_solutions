@@ -172,3 +172,22 @@
 ### [923. 3Sum With Multiplicity](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/923.%203Sum%20With%20Multiplicity.cpp)<br />
 ### [1046. Last Stone Weight](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/1046.%20Last%20Stone%20Weight.cpp)<br />
 ### [301. Remove Invalid Parentheses](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/backtracking/Remove%20Invalid%20Parentheses/sol.cpp)<br />
+### [703. Kth Largest Element in a Stream](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)<br />
+### [347. Top K Frequent Elements](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/347.%20Top%20K%20Frequent%20Elements.cpp)<br />
+### [682. Baseball Game](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/others/leetcode/682.%20Baseball%20Game.cpp)<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+### []()<br />
+
