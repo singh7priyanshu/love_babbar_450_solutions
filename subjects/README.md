@@ -8,3 +8,4 @@
 ## [software engineering](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/subjects/se/Software%20Engineering%20Tutorial.pdf)<br />
 ## [structured query language](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/subjects/sql/Readme.md)<br />
 ## [mern](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/subjects/mern/README.md)<br />
+## [javascript](https://github.com/singh7priyanshu/love_babbar_450_solutions/blob/main/subjects/javascript/README.md)<br />
