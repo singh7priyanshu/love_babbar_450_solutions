@@ -1,6 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Requests are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Requests are highly appreciated. Follow him [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
 Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
